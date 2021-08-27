@@ -25,8 +25,9 @@ const MaterialUI: React.FC = () => {
         variant="h1"
         align="left"
         gutterBottom
+        noWrap
       >
-        HelloHelloHelloHelloHelloHelloHelloHelloHelloHelloHelloHelloHelloHelloHelloHello
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Atque nulla doloremque, suscipit autem pariatur nihil dolores, exercitationem provident ex rem sequi voluptate nobis cupiditate sapiente beatae earum veritatis veniam eum.
       </Typography>
 
       <Grid container spacing={1}>
@@ -87,13 +88,13 @@ const MaterialUI: React.FC = () => {
         </Grid>
         <Grid item xs={12} justify="space-around" container>
           <Grid item xs={3}>
-            DemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemo
+            Demo Demo Demo Demo Demo Demo Demo Demo Demo Demo Demo Demo Demo Demo Demo Demo Demo Demo 
           </Grid>
           <Grid item xs={3}>
-            DemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemo
+          Demo Demo Demo Demo Demo Demo Demo Demo Demo Demo Demo Demo Demo Demo Demo Demo Demo Demo 
           </Grid>
           <Grid item xs={3}>
-            DemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemoDemo
+          Demo Demo Demo Demo Demo Demo Demo Demo Demo Demo Demo Demo Demo Demo Demo Demo Demo Demo 
           </Grid>
         </Grid>
       </Grid>
