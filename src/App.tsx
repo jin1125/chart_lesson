@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import BubblePlot from './components/BubblePlot';
+import MaterialUI from './components/MaterialUI';
 
 function App() {
   return (
     <div className="App">
-      <BubblePlot/>
+      <MaterialUI/>
     </div>
   );
 }
